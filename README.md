@@ -14,4 +14,5 @@ Welcome to the Plinko Game Clone! This project is a recreation of the classic Pl
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/plinko-game-clone.git
+   git clone https://github.com/your-username/plinko
+   -clone.git
